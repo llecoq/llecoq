@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a french student at <a href="https://42lyon.fr/"> 42 Lyon Auvergne-Rhônes-Alpes</a>.
+I'm a french student at <a href="https://42lyon.fr/" target="_BLANK"> 42 Lyon Auvergne-Rhônes-Alpes</a>.
 
 <!--
 **llecoq/llecoq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
