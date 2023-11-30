@@ -1,4 +1,4 @@
-### Hi there, looking for an internship 👋
+### Hi there 👋
 
 I'm a french student at <a href="https://42lyon.fr/" target="_BLANK"> 42 Lyon Auvergne-Rhônes-Alpes</a>.
 
