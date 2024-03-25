@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Former<a href="https://42lyon.fr/" target="_BLANK"> 42 Lyon Auvergne-Rhônes-Alpes</a> student, I'm currently working for <a href="https://www.avisto.com/fr/" target="_BLANK">Avisto</a> in Lyon.
+Former <a href="https://42lyon.fr/" target="_BLANK">42 Lyon Auvergne-Rhônes-Alpes</a> student, I'm currently working for <a href="https://www.avisto.com/fr/" target="_BLANK">Avisto</a> in Lyon.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llecoq&layout=compact&theme=tokyonight)
 
 <!--
 **llecoq/llecoq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
