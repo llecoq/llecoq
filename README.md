@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a french student at <a href="https://42lyon.fr/" target="_BLANK"> 42 Lyon Auvergne-Rhônes-Alpes</a>.
+Former<a href="https://42lyon.fr/" target="_BLANK"> 42 Lyon Auvergne-Rhônes-Alpes</a> student, I'm currently working for <a href="https://www.avisto.com/fr/ target="_BLANK">Avisto</a> in Lyon.
 
 <!--
 **llecoq/llecoq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
