@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Former <a href="https://42lyon.fr/" target="_BLANK">42 Lyon Auvergne-Rhônes-Alpes</a> student, I'm currently working for <a href="https://www.avisto.com/fr/" target="_BLANK">Avisto</a> in Lyon.
+Former <a href="https://42lyon.fr/" target="_BLANK">42 Lyon Auvergne-Rhônes-Alpes</a> student, I'm currently working for <a href="https://www.charlesandre.com/en/our-businesses/industrial-logistics" target="_BLANK">GCA Supply 4 Industry</a> in Lyon.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llecoq&layout=compact&theme=tokyonight)
 
